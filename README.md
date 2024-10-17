@@ -76,6 +76,7 @@ Dalam proyek ini, saya menggunakan teknik Deep Learning untuk menganalisis bentu
 
 - ![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 3.8.20
+- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 ## Libraries 📚
 - TensorFlow
