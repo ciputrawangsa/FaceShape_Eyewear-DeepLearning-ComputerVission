@@ -1,4 +1,4 @@
-# Segmentasi Bentuk Wajah dan Pemilihan Kacamata 🕶️ - ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F20?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# Klasifikasi Bentuk Wajah dan Pemilihan Kacamata 🕶️ - ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F20?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 Repositori ini berisi proyek segmentasi bentuk wajah dan pemilihan kacamata menggunakan teknik Deep Learning dan Computer Vision. Proyek ini bertujuan untuk menganalisis bentuk wajah pengguna dan merekomendasikan model kacamata yang sesuai berdasarkan analisis tersebut. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga penerapan model deep learning.
 
