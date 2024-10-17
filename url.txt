@@ -1,4 +1,0 @@
-URL source dataset = https://www.kaggle.com/datasets/niten19/face-shape-dataset
-URL dataset = https://drive.google.com/drive/folders/1oDFriBTld35UHhHVeimULzObxkf_8Np9?usp=drive_link
-URL model = https://drive.google.com/drive/folders/147eXE96ksdw-eqAdtCHuKU72zOKlFR2R?usp=drive_link
-URL deployment = https://huggingface.co/spaces/Ciputra/Faceshape
